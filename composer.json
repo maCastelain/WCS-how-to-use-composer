@@ -3,8 +3,8 @@
     "description": "Projet Composer WCS Quete",
     "authors": [
         {
-            "name": "vincent LES",
-            "email": "vincent.leschaeve@gmail.com"
+            "name": "Marc Castelain",
+            "email": "ma.castelain@gmail.com"
         }
     ],
     "require": {
