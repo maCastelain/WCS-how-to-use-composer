@@ -1,4 +1,5 @@
-//README
+README
+
 Un dépôt pour illustrer une quête de la Wild Code Scool renvoyant à l'usage de composer
 
 Challenge
